@@ -1,4 +1,4 @@
-
+# author @shubhamphl
 import sys
 class puzzle:
     count=0
